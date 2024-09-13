@@ -6,8 +6,9 @@
 }
 
 :root {
-    --clr-main: #c56cee;
-    --clr-main-light: #efdaf9;
+    --clr-main: #54773d;
+    --clr-main-light: #553232;
+    background-image: url(https://img.freepik.com/foto-gratis/tienda-ropa-efecto-borroso_23-2148164929.jpg?w=826&t=st=1726210385~exp=1726210985~hmac=7bf11bf00b7eccac957ab5e26c6300c603656f727d79c3cfac7069c5be35dae6);
 }
 
 .container {
@@ -177,3 +178,4 @@
     border: 2px solid var(--clr-main);
     outline: 2px solid var(--clr-main);
 }
+
