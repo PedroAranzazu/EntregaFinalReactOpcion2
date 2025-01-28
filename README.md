@@ -1,3 +1,21 @@
+Se esta actualizando
+
+ tienda de gafas en línea utilizando React
+Js. Creé un sitio de e-commerce con un catálogo dinámico que permitía a los
+usuarios buscar, filtrar y explorar productos de manera eficiente. Además, integré
+Firebase para gestionar la base de datos.
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
